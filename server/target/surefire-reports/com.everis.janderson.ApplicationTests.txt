@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.everis.janderson.ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.021 s - in com.everis.janderson.ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.983 s - in com.everis.janderson.ApplicationTests
